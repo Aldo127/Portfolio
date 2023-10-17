@@ -6,11 +6,15 @@
 <head>
 </head>
 
-<body>
+
 
 <h1> Aldo Guzman</h1>
 
-  <h1> Video Game Design and all that</h1>
+  <h1> Video Game Design</h1>
+
+<body>
+<p> Hi my name is Aldo and im a 2nd year student at Sno Isle Skills tech center. Im currently enrolled in the Video Game Design program and learning about blender and VR. As a 2nd year I am able to help other 1st year students with many problems they encounter. Over the the last year I have built up a portfolio of various games and projects.
+<p></p> At my time in Sno Isle I have worked mostly in Unity and C# but also have gained some experience in Godot, GDScript, and Blender. I experience working both in 2D and 3D housing most of my projects on GitHub.
 
 </body>
 </html>
